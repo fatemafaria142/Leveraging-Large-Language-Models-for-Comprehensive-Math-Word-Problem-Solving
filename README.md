@@ -22,6 +22,7 @@
   <p>This project incorporates five large language models, each contributing to the comprehensive understanding and solving of math word problems. Below are the models utilized:</p>
 
   <ol>
+    <li><strong>Llama-2-7b-chat-hf:</strong> <a href="https://huggingface.co/meta-llama/Llama-2-7b-chat-hf">Model Link</a></li>
     <li><strong>Mistral-7B-v0.1:</strong> <a href="https://huggingface.co/mistralai/Mistral-7B-v0.1">Model Link</a></li>
     <li><strong>Mistral-7B-Instruct-v0.2:</strong> <a href="https://huggingface.co/mistralai/Mistral-7B-Instruct-v0.2">Model Link</a></li>
     <li><strong>TinyLlama-1.1B:</strong> <a href="https://huggingface.co/TinyLlama/TinyLlama-1.1B-Chat-v1.0">Model Link</a></li>
